@@ -1,4 +1,4 @@
-### Привет
+# Привет
 
 <!--**GennadyUlasen/GennadyUlasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Мои навыки</h2>
-### Languages & Tools
+## Languages & Tools
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
