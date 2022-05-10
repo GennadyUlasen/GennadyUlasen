@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Редактор кода React<p>
- Редактор кода React
+<h2>Мои навыки</h2>
+ Javacsript, HTML5, CSS3, PixiJS, React, Git.
+ <h2>Мои работы</h2>
  [Код](https://github.com/SheDeMere/code-editor) | [Демо](https://code-editor-gules.vercel.app/)
