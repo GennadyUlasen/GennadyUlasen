@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 <h2>Мои навыки</h2>
  Javacsript, HTML5, CSS3, PixiJS, React, Git.
  <h2>Мои работы</h2>
- Playable для игры Homescapes-"Восстановление лестницы"[Код](https://github.com/GennadyUlasen/playable)
+ Playable для игры Homescapes-"Восстановление лестницы"[Код](https://github.com/GennadyUlasen/playable/)
  [Демо](https://gennadyulasen.github.io/Playable-Homescapes/)
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+ Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
