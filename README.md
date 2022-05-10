@@ -12,15 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Languages & Tools
-![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
+## :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+## Мои работы
+ - [Playable для игры Homescapes-"Восстановление лестницы"](https://gennadyulasen.github.io/Playable-Homescapes)
+ - [Адаптивная верстка](https://gennadyulasen.github.io/AutoBlog/)
+ - [Игра "Крестики-нолики"](https://gennadyulasen.github.io/Tic-Tac-Toe-game/)
+ - [Верстка макета для сайта с помощью Grid Layout](https://gennadyulasen.github.io/Maket/)
 
- <h2>Мои работы</h2>
- <p>Playable для игры Homescapes-"Восстановление лестницы" [Демо](https://gennadyulasen.github.io/Playable-Homescapes)</p>
- <p>Адаптивная верстка [Демо] (https://gennadyulasen.github.io/AutoBlog/)</p>
- <p>Игра "Крестики-нолики" (https://gennadyulasen.github.io/Tic-Tac-Toe-game/)</p>
- <p>Верстка макета для сайта с помощью Grid Layout (https://gennadyulasen.github.io/Maket/)</p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
