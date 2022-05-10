@@ -1,8 +1,6 @@
-### Привет - ⚡ Fun fact: ...
+### Привет
 
-<!--
-**GennadyUlasen/GennadyUlasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--**GennadyUlasen/GennadyUlasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,5 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->- Редактор кода React
+-->
+<p>Редактор кода React<p>
+ Редактор кода React
  [Код](https://github.com/SheDeMere/code-editor) | [Демо](https://code-editor-gules.vercel.app/)
