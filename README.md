@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 <h2>Мои навыки</h2>
  Javacsript, HTML5, CSS3, PixiJS, React, Git.
  <h2>Мои работы</h2>
- [Код](https://github.com/SheDeMere/code-editor) | [Демо](https://code-editor-gules.vercel.app/)
+ Playable для игры Homescapes-"Восстановление лестницы"[Демо](https://github.com/GennadyUlasen/playable)
