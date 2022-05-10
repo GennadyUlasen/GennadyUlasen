@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 <h2>Мои навыки</h2>
  Javacsript, HTML5, CSS3, PixiJS, React, Git.
  <h2>Мои работы</h2>
- # Playable для игры Homescapes-"Восстановление лестницы" [Демо](https://gennadyulasen.github.io/Playable-Homescapes/)
+ <p>Playable для игры Homescapes-"Восстановление лестницы" [Демо](https://gennadyulasen.github.io/Playable-Homescapes)</p>
+ <p>Адаптивная верстка [Демо] (https://gennadyulasen.github.io/AutoBlog/)</p>
+ <p>Игра "Крестики-нолики" (https://gennadyulasen.github.io/Tic-Tac-Toe-game/)</p>
+ <p>Верстка макета для сайта с помощью Grid Layout (https://gennadyulasen.github.io/Maket/)</p>
 
