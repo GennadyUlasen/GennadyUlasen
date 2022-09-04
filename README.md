@@ -23,5 +23,5 @@ Here are some ideas to get you started:
  - [Адаптивная верстка](https://gennadyulasen.github.io/AutoBlog/)
  - [Игра "Крестики-нолики"](https://gennadyulasen.github.io/Tic-Tac-Toe-game/)
  - [Верстка макета для сайта с помощью Grid Layout](https://gennadyulasen.github.io/Maket/)
- - [Верстка лендинг страницы](https://gennadyulasen.github.io/Scooter-rent/)  
-
+ - [Верстка лендинг страницы](https://gennadyulasen.github.io/Scooter-rent/)
+ - [Верстка формы регистрации из дизайн-макета](https://gennadyulasen.github.io/Form/)
