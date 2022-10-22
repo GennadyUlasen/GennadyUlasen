@@ -25,3 +25,4 @@ Here are some ideas to get you started:
  - [Верстка макета для сайта с помощью Grid Layout](https://gennadyulasen.github.io/Maket/)
  - [Верстка лендинг страницы](https://gennadyulasen.github.io/Scooter-rent/)
  - [Верстка формы регистрации из дизайн-макета](https://gennadyulasen.github.io/Form/)
+ - [Верстка лендинг страницы](https://gennadyulasen.github.io/Internet-Marketing/)
