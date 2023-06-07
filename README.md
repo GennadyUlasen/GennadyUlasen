@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
    
 ## Мои работы
+-  [Landing Page - "CV"](https://gennadyulasen.github.io/CV/)
  - [Playable для игры Homescapes-"Восстановление лестницы"](https://gennadyulasen.github.io/Playable-Homescapes)
  - [Адаптивная верстка](https://gennadyulasen.github.io/AutoBlog/)
  - [Игра "Крестики-нолики"](https://gennadyulasen.github.io/Tic-Tac-Toe-game/)
